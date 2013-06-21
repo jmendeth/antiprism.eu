@@ -1,14 +1,14 @@
 antiprism.eu
 ============
 
-Repository for AntiPRISM.eu
+Repository for the [AntiPRISM.eu](http://antiprism.eu) site.
 
 
 
 License
 -------
 
-antiprism.eu is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain
+antiprism.eu is licensed under the CC0 1.0 Universal ([CC0 1.0][cc0]) Public Domain
 Dedication. See the `COPYING.md` file in `/doc/`.
 
 
@@ -34,9 +34,9 @@ Create a clone of this repository
 ---------------------------------
 
 Clone the repo by running:
-`git clone git://github.com/piratenpartij/antiprism.eu.git`
+`git clone https://github.com/piratenpartij/antiprism.eu.git`
 
-Checkout to the appropriate branch:
+Checkout the appropriate branch:
 `git checkout $BRANCH`
 
 ...where `$BRANCH` is one of:
@@ -56,3 +56,7 @@ support, message/mail/IRC at your preference.
 
 See <https://piratenpartij.nl/> or contact <ict@piratenpartij.nl> for more
 details.
+
+
+
+cc0: http://creativecommons.org/publicdomain/zero/1.0 "CC0 1.0 Universal Public Domain Dedication"
