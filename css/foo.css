@@ -19,9 +19,9 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/
 
 h1, h2, .center { text-align: center }
 
-h1 { font-size: 3.8em; margin: 0.2em 0}
+h1 { font-size: 3.0em; margin: 0.2em 0}
 
-h2 { font-size: 1.8em; }
+h2 { font-size: 1.6em; }
 
 h3 { font-size: 1.4em; }
 
@@ -117,8 +117,8 @@ abbr:hover {
   margin-left: 4px;
     border: none;
     padding: 0.5em;
-    color: white;
-  background-color: #444;
+    color: #333;
+  background-color: #eee;
   -webkit-box-shadow: 4px 4px 1px rgba(0,0,0,0.3);
      -moz-box-shadow: 4px 4px 1px rgba(0,0,0,0.3);
           box-shadow: 4px 4px 1px rgba(0,0,0,0.3);
